@@ -1,4 +1,4 @@
-package com.example.franciscoandrade.retrofitbasics;
+package com.example.franciscoandrade.retrofitbasics.Exercise1;
 
 /**
  * Created by franciscoandrade on 12/17/17.

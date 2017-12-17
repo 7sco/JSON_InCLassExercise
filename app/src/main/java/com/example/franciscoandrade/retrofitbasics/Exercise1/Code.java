@@ -1,4 +1,4 @@
-package com.example.franciscoandrade.retrofitbasics;
+package com.example.franciscoandrade.retrofitbasics.Exercise1;
 
 import java.util.List;
 
